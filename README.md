@@ -1,2 +1,2 @@
-# homework
-Homework Submissions for Data Science and Visualization Boot Camp
+# KickStarter-Graphs
+Examination of KickStarter Campaigns
